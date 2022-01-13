@@ -1,8 +1,22 @@
 #header {
   background-color: #fff;
   width: 100%;
-  height: 5000px;
+  height: 4759px;
   font-family: gilroy-bold;
+}
+
+body {
+  margin: 0 auto;
+}
+
+#section {
+  font-family: gilroy-bold;
+  background-color: #F6F6F6;
+}
+
+#footer {
+  font-family: gilroy-bold;
+  background-color: #F6F6F6;
 }
 
 .container {
@@ -45,4 +59,119 @@
 .denis {
   margin-left: 116px;
   font-size: 50px;
+}
+
+.text1 {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: -80px;
+}
+
+.nav {
+  width: 100%;
+  height: 506px;
+  margin-top: -4059px;
+  display: block;
+}
+
+.nav-text {
+  color: black;
+}
+
+.nav__about {
+  text-align: center;
+  font-size: 34px;
+  padding: 2.2em 0;
+  margin-bottom: -30px;
+}
+
+.nav__obz {
+  padding: 0em 0;
+  font-size: 18px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.navcenter {
+  width: 100%;
+  height: 610px;
+  margin-top: 599px;
+}
+
+.skl {
+  font-size: 42px;
+  text-align: center;
+  padding: 70px;
+}
+
+.work {
+  font-size: 18px;
+  text-align: center;
+  margin-top: -40px;
+  margin-bottom: 83px;
+}
+
+.foto {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.nav2 {
+  width: 100%;
+  height: 100px;
+  margin-top: 611px;
+}
+
+.nav3 {
+  background-color: #fff;
+  width: 100%;
+  height: 622px;
+  margin-top: 2253px;
+  text-align: center;
+}
+
+.port {
+  text-align: center;
+  font-size: 34px;
+  padding: 100px;
+}
+
+.img {
+  text-align: center;
+}
+
+.img__cam {
+  font-size: 18px;
+  margin-bottom: 100px;
+  margin-top: 44px;
+}
+
+.contacts {
+  padding: 70px;
+  font-size: 34px;
+}
+
+.want {
+  margin-top: -70px;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.button {
+  margin-bottom: 80px;
+}
+
+.silk-cont {
+  padding: 30px;
+}
+
+.mintext {
+  padding: 25px;
+  font-size: 14px;
+  color: #828282;
 }
